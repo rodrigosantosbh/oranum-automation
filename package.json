@@ -1,0 +1,23 @@
+{
+  "name": "oranum-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codecept.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@codeceptjs/allure-legacy": "^1.0.2",
+    "@codeceptjs/ui": "^0.5.0",
+    "@playwright/test": "^1.35.1",
+    "allure-commandline": "^2.22.4",
+    "codeceptjs": "^3.4.1",
+    "mochawesome": "^7.1.3"
+  },
+  "dependencies": {
+    "playwright-core": "^1.35.1"
+  }
+}
